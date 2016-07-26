@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Visioneo]]></title>
   <link href="http://visioneo.github.io/atom.xml" rel="self"/>
   <link href="http://visioneo.github.io/"/>
-  <updated>2016-07-26T16:50:03+02:00</updated>
+  <updated>2016-07-26T17:11:36+02:00</updated>
   <id>http://visioneo.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Visioneo]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
